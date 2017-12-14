@@ -1,0 +1,7 @@
+print('please input a number  :')
+a = input()
+a = int(a)
+print('please input a number  :')
+b = input()
+b = int(b)
+print(a+b)
